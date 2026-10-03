@@ -1,0 +1,14 @@
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\bin\Debug\net9.0\wt-lab2-2oop-mamedova.exe
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\bin\Debug\net9.0\wt-lab2-2oop-mamedova.deps.json
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\bin\Debug\net9.0\wt-lab2-2oop-mamedova.runtimeconfig.json
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\bin\Debug\net9.0\wt-lab2-2oop-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\bin\Debug\net9.0\wt-lab2-2oop-mamedova.pdb
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.GeneratedMSBuildEditorConfig.editorconfig
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.AssemblyInfoInputs.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.AssemblyInfo.cs
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.csproj.CoreCompileInputs.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\refint\wt-lab2-2oop-mamedova.dll
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.pdb
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\wt-lab2-2oop-mamedova.genruntimeconfig.cache
+C:\АКАДЕМИЯЯЯЯЯЯЯЯЯ\wt\lab2\wt-lab2-2oop-mamedova\obj\Debug\net9.0\ref\wt-lab2-2oop-mamedova.dll
